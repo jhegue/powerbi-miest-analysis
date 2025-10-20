@@ -1,1 +1,3 @@
 # powerbi-miest-analysis
+
+O MIEST é um material abrangente que oferece uma síntese detalhada das matrículas e classes de FGB/BNCC do estado de São Paulo. Este material consolidado reúne informações significativas, oferecendo flexibilidade na sua visualização para se adaptar a distintos contextos e atender às variadas necessidades. Apresenta totalizadores organizados em duas visualizações distintas: "por ciclo" e "por turno", permitindo uma análise extensiva e detalhada dos dados. Como uma iniciativa de publicação mensal, estamos comprometidos em oferecer o MIEST de maneira progressivamente aprimorada e expandida em seu escopo, sendo continuamente revisado para atender às demandas em constante evolução e manter a transparência dos dados educacionais.
